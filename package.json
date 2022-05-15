@@ -1,0 +1,23 @@
+{
+  "name": "isola",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spasimir21/isola.git"
+  },
+  "homepage": "https://github.com/spasimir21/isola#readme",
+  "bugs": {
+    "url": "https://github.com/spasimir21/isola/issues"
+  },
+  "author": "Spasimir Pavlov",
+  "license": "MIT"
+}
